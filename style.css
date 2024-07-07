@@ -51,19 +51,19 @@ body {
     border-width: medium;
   }
 
-  form .form-floating>.form-control:focus~label {
+/*   form .form-floating>.form-control:focus~label {
     color: rgba(255,255,255,0.7);
   }
 
   form .form-floating>.form-control:focus~label::after{
     background-color: transparent;
-  }
+  } */
   form .form-floating{
     width: 50%;
   }
-  form #floatingInpt{
+/*   form #floatingInpt{
     background: transparent;
-  }
+  } */
   /* form label{
     color: rgba(255,255,255,0.7);
     margin-left: 10px;
